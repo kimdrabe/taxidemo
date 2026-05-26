@@ -1,0 +1,5 @@
+:HL["/taxidemo/_next/static/chunks/03nd8o4dz3q-z.css","style"]
+:HL["/taxidemo/_next/static/media/c41ca59f1c34ba31-s.p.0xxb547n1hn74.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/taxidemo/_next/static/media/fabcf92ba1ccea36-s.p.0lwj123ije5i..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/taxidemo/_next/static/chunks/0sc-8akg.qzaj.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"1ZJ5Blj9Kz4jCW-l-UKzs"}
